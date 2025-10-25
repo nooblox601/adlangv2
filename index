@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>ADLANG - Linguagem de Programação</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #f0f0f0;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    h1 {
+      color: #00ff99;
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto 20px;
+    }
+    .button {
+      display: inline-block;
+      background-color: #00ccff;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.1em;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      margin: 10px;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #0099cc;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌟 ADLANG</h1>
+  <p>Uma linguagem de programação leve, com sintaxe estilo Lua, executada via VBScript.</p>
+  <p>Crie, edite e execute com o interpretador embutido. Ideal para automações, scripts e aprendizado.</p>
+
+ <a class="button" href="https://github.com/nooblox601/adlangv2/archive/refs/heads/main.zip">
+    ⬇️ Baixar repositório completo (.zip)
+  </a>
+
+  <p><a href="https://github.com/nooblox601/adlangv2" style="color:#00ccff;">Ver repositório no GitHub</a></p>
+
+  <footer>
+    Desenvolvido por Adilson • Projeto open-source • 2025
+  </footer>
+</body>
+</html>
+
+
+ 
